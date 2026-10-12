@@ -341,7 +341,7 @@ $("#panel").addEventListener("click", e => {
 
 $("#notes").innerHTML = [
   `出典：${esc(DATA.publisher)}「${esc(DATA.title)}」${DATA.date.replace(/^(\d+)-0?(\d+)-0?(\d+)$/, "$1年$2月$3日")}。説明文・参照URLは原本のままです。`,
-  `このページは日本醸造学会の公式サイトではありません。作成：合同会社サケノテ`,
+  `このページは日本醸造学会の公式サイトではありません。作成：<a href="https://sakenote.net/" target="_blank" rel="noopener">合同会社サケノテ</a>`,
   `50音順の注：${esc(DATA.notes.aiueo)}`,
   `都道府県別の注：${DATA.notes.pref.map(esc).join("")}`,
 ].map(s => `<p>${s}</p>`).join("");
