@@ -7,7 +7,7 @@
 
 ## データについて
 
-- 出典: 日本醸造学会「醸造百選リスト」2026年10月6日（原本PDF: https://www.jozo.or.jp/gakkai/wp-content/uploads/sites/4/4acb37530d7a1a87955504c2019b927a.pdf 、醸造百選 特設サイト: https://www.jozo.or.jp/gakkai/jozohyakusen/ ）
+- 出典: 日本醸造学会「醸造百選リスト」2026年10月6日（原本PDF: https://www.jozo.or.jp/gakkai/wp-content/uploads/sites/4/f83048b418626097dd4be52ef32d9810.pdf 、醸造百選 特設サイト: https://www.jozo.or.jp/gakkai/jozohyakusen/ ）
 - 名称・説明文・参照URLは原本のまま転記しています
 - 本ビューアで足したのは、50音の行分けと、50音の品目と都道府県別の行の対応づけ（括弧を外した名称の一致、および原本の都道府県別リストの注にある「焼酎は本格焼酎・泡盛を指す」による読み替え）だけです
 - 作成: 合同会社サケノテ（sakenote.net）。日本醸造学会の公式サイトではありません
